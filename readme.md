@@ -18,6 +18,9 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
 - **Sorteo aleatorio:**  
   Al hacer clic en el botón **"Sortear Amigo"**, se seleccionará un nombre de la lista de manera aleatoria y se mostrará en pantalla.
 
+**LINK:**
+[Ir a la página](https://valsval.github.io/challenge_amigo_secreto/)  
+
 ![alt text](./assets/image.png)
 
 
