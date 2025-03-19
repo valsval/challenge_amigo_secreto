@@ -1,6 +1,6 @@
-# challenge amigo secreto
+# Challenge amigo secreto
 
-ste proyecto es una aplicación web sencilla que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién será su "amigo secreto".
+Este proyecto es una aplicación web sencilla que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién será su "amigo secreto".
 
 ## Funcionalidades
 
